@@ -1,0 +1,7 @@
+.LightGrid {
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 500px;
+}

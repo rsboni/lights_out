@@ -1,0 +1,11 @@
+.LightBox-ON {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.LightBox-OFF {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
